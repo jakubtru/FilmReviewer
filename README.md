@@ -1,4 +1,4 @@
-# FilmReviewer
+# FilmReviewer - simple ASP.NET MVC project
 
 Project in collaboration with Milena Smołka.
 
